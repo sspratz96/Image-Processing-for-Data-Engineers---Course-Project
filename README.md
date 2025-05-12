@@ -43,3 +43,8 @@ jupyter notebook
 ---
 
 ¡Gracias por revisar este proyecto!
+
+👨‍👩‍👧‍👦 Authors
+
+- Sebastian Sprätz
+- Pakin Veerachanchai
